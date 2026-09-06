@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Lalit</h1>
 <p align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/58b1e837e6f2e1db5dffff7e/1502042956726-6CDU9VEZ64CNQG6T3VUK/image-asset.gif"/>
 </p>
