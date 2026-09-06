@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lalit</h1>
-<p>
-  <img src="https://i.pinimg.com/originals/c6/ff/10/c6ff1080bd55ace9363f50a59fe2dbe1.gif" width="400"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2e/ea/b3/2eeab3a597171fb0c8aa8746e39290a6.gif" width="400"/>
 </p>
 
 <h3 align="left">Languages & Tools 🛠️</h3>
