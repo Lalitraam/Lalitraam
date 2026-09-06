@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lalitraam/Lalitraam/main/assets/g1.gif"/>
+  <img src="https://raw.githubusercontent.com/Lalitraam/Lalitraam/main/g1.gif"/>
 </p>
 
 <h3 align="left">Languages & Tools 🛠️</h3>
