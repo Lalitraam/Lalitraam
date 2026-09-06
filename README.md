@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lalitraam</h1>
-<h3 align="center">A Software Student</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/c6/ff/10/c6ff1080bd55ace9363f50a59fe2dbe1.gif" width="400"/>
