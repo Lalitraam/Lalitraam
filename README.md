@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/58b1e837e6f2e1db5dffff7e/1502042956726-6CDU9VEZ64CNQG6T3VUK/image-asset.gif"/>
+  <img src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif"/>
 </p>
 
 <h3 align="left">Languages & Tools 🛠️</h3>
