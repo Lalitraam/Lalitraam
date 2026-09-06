@@ -1,5 +1,5 @@
-
-<p align="center">
+<h1 align="center">Hi 👋, I'm Lalit</h1>
+<p>
   <img src="https://i.pinimg.com/originals/c6/ff/10/c6ff1080bd55ace9363f50a59fe2dbe1.gif" width="400"/>
 </p>
 
