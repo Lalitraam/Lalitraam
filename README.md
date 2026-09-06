@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lalit</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2e/ea/b3/2eeab3a597171fb0c8aa8746e39290a6.gif" width="400"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/58b1e837e6f2e1db5dffff7e/1502042956726-6CDU9VEZ64CNQG6T3VUK/image-asset.gif" width="400"/>
 </p>
 
 <h3 align="left">Languages & Tools 🛠️</h3>
@@ -23,5 +23,5 @@
 
 <h3 align="left">Contribution Snake 🐍</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Lalitraam/Lalitraam/output/github-contribution-grid-snake.svg" />
 </p>
